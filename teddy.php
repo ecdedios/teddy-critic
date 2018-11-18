@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Teddy Critic
-Plugin URI: http://ednalyn.com/wordpress/plugins/teddy-critic/
+Plugin URI: https://github.com/ecdedios/teddy-critic
 Description: A plugin inspired by <cite>Matt's Mullenweg's</cite> original <cite>Hello Dolly</cite> plugin.
 Author: Ednalyn C. De Dios
 Version: 1.17
